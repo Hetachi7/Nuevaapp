@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908145833717",
+    "project_id": "magica-colombia",
+    "storage_bucket": "magica-colombia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908145833717:android:55496b87a0a3d1c1b377bc",
+        "android_client_info": {
+          "package_name": "com.example.magicaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLoJ0C0rxx6qFnhvOexOZneIp4ZgwkoCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
